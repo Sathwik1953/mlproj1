@@ -1,1 +1,1 @@
-# my first mechine learning project 1
+# my first machine learning project 1
